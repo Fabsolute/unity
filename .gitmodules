@@ -1,0 +1,6 @@
+[submodule "seiko-unity"]
+	path = seiko-unity
+	url = git@github.com:Fabsolute/seiko-unity.git
+[submodule "pachinkonline"]
+	path = pachinkonline
+	url = git@github.com:Fabsolute/pachinkonline.git
